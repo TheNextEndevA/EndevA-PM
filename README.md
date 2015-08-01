@@ -1,2 +1,0 @@
-# EndevA-PM
-Project Management
